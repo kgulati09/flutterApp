@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "151411855446",
+    "firebase_url": "https://hockeymanagement-e1f4d.firebaseio.com",
+    "project_id": "hockeymanagement-e1f4d",
+    "storage_bucket": "hockeymanagement-e1f4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151411855446:android:253e1da980d40be4",
+        "android_client_info": {
+          "package_name": "com.example.flutterlogindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151411855446-15ieqrv9knkln8bvrgfdtnrd0t55ohna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0yjK1F_XD7_MGhIBvup4NvGU2__UH5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151411855446-15ieqrv9knkln8bvrgfdtnrd0t55ohna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "151411855446-nps95j02u046jf8dr0p17hssvodv1q1b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseexample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
